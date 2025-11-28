@@ -28,7 +28,7 @@ function NavScrollExample() {
               </NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action5">
-                Something else here
+                Something else here!
               </NavDropdown.Item>
             </NavDropdown>
             {/* <Nav.Link href="#" disabled>
