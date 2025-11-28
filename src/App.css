@@ -1,0 +1,30 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.img{
+    width: 100%;
+    height: 400px;
+}
+.Cards{
+    display: flex;
+    /* margin: 1rem; */
+    flex-wrap: wrap;
+    column-gap: 1cap;
+    row-gap: 1.5cap;
+     
+}
+.card-img{
+   box-shadow: 10px 10px 8px whitesmoke;
+}
+.Form-box{
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    /* border: 2px solid black; */
+    padding: 50px;
+    border-radius: 10px;
+    background-color: rgb(172, 224, 206);
+}
+.btn-submit{
+    width: 100% !important;
+    margin-top: 10px;
+}
